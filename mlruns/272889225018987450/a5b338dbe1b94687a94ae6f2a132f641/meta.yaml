@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/customer_churn/mlruns/272889225018987450/a5b338dbe1b94687a94ae6f2a132f641/artifacts
+end_time: 1722974868977
+entry_point_name: ''
+experiment_id: '272889225018987450'
+lifecycle_stage: active
+run_id: a5b338dbe1b94687a94ae6f2a132f641
+run_name: bemused-ape-581
+run_uuid: a5b338dbe1b94687a94ae6f2a132f641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722974868887
+status: 4
+tags: []
+user_id: felip

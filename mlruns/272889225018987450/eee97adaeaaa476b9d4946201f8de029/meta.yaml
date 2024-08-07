@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/customer_churn/mlruns/272889225018987450/eee97adaeaaa476b9d4946201f8de029/artifacts
+end_time: 1722991334099
+entry_point_name: ''
+experiment_id: '272889225018987450'
+lifecycle_stage: active
+run_id: eee97adaeaaa476b9d4946201f8de029
+run_name: kindly-mare-691
+run_uuid: eee97adaeaaa476b9d4946201f8de029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722991323468
+status: 3
+tags: []
+user_id: felip

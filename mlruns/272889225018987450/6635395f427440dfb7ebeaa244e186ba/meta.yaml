@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/customer_churn/mlruns/272889225018987450/6635395f427440dfb7ebeaa244e186ba/artifacts
+end_time: 1722984802638
+entry_point_name: ''
+experiment_id: '272889225018987450'
+lifecycle_stage: active
+run_id: 6635395f427440dfb7ebeaa244e186ba
+run_name: welcoming-snake-743
+run_uuid: 6635395f427440dfb7ebeaa244e186ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722984789900
+status: 3
+tags: []
+user_id: felip

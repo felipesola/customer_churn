@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/customer_churn/mlruns/272889225018987450/e61da6bdb7004a519e17d68a6dcc3017/artifacts
+end_time: 1722985698655
+entry_point_name: ''
+experiment_id: '272889225018987450'
+lifecycle_stage: active
+run_id: e61da6bdb7004a519e17d68a6dcc3017
+run_name: unleashed-elk-648
+run_uuid: e61da6bdb7004a519e17d68a6dcc3017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722985688212
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/customer_churn/mlruns/272889225018987450/da8b4ce18a654f8ea1b94db8866c86cf/artifacts
+end_time: 1722984724368
+entry_point_name: ''
+experiment_id: '272889225018987450'
+lifecycle_stage: active
+run_id: da8b4ce18a654f8ea1b94db8866c86cf
+run_name: learned-asp-617
+run_uuid: da8b4ce18a654f8ea1b94db8866c86cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722984717330
+status: 3
+tags: []
+user_id: felip

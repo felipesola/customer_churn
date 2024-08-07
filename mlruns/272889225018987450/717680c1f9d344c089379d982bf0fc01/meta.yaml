@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/customer_churn/mlruns/272889225018987450/717680c1f9d344c089379d982bf0fc01/artifacts
+end_time: 1723057147110
+entry_point_name: ''
+experiment_id: '272889225018987450'
+lifecycle_stage: active
+run_id: 717680c1f9d344c089379d982bf0fc01
+run_name: magnificent-elk-521
+run_uuid: 717680c1f9d344c089379d982bf0fc01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723057130004
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/customer_churn/mlruns/272889225018987450/4b6d1f018152490580574149f6d4a6a5/artifacts
+end_time: 1722974778455
+entry_point_name: ''
+experiment_id: '272889225018987450'
+lifecycle_stage: active
+run_id: 4b6d1f018152490580574149f6d4a6a5
+run_name: bouncy-robin-614
+run_uuid: 4b6d1f018152490580574149f6d4a6a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722974768551
+status: 3
+tags: []
+user_id: felip
